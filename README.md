@@ -1,2 +1,2 @@
 # testing
-test only
+<p>Hello world</p>
